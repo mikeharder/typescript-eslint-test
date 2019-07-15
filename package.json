@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mikeharder/typescript-eslint-test/issues"
   },
-  "homepage": "https://github.com/mikeharder/typescript-eslint-test#readme"
+  "homepage": "https://github.com/mikeharder/typescript-eslint-test#readme",
+  "devDependencies": {
+    "@typescript-eslint/parser": "^1.12.0"
+  }
 }
